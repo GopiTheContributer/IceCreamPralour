@@ -1,0 +1,4 @@
+E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\bin\IceCreamParlorPOS.dll
+E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\bin\IceCreamParlorPOS.pdb
+E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\obj\Debug\IceCreamParlorPOS.dll
+E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\obj\Debug\IceCreamParlorPOS.pdb
