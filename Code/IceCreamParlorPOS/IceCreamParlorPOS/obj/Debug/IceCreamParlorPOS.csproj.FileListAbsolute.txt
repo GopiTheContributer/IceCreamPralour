@@ -2,3 +2,7 @@ E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceC
 E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\bin\IceCreamParlorPOS.pdb
 E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\obj\Debug\IceCreamParlorPOS.dll
 E:\Mine\From GitHub\IceCream Project\IceCreamPralour\Code\IceCreamParlorPOS\IceCreamParlorPOS\obj\Debug\IceCreamParlorPOS.pdb
+D:\Ice Cream PArlor Project\Code\IceCreamParlorPOS\IceCreamParlorPOS\bin\IceCreamParlorPOS.dll
+D:\Ice Cream PArlor Project\Code\IceCreamParlorPOS\IceCreamParlorPOS\bin\IceCreamParlorPOS.pdb
+D:\Ice Cream PArlor Project\Code\IceCreamParlorPOS\IceCreamParlorPOS\obj\Debug\IceCreamParlorPOS.dll
+D:\Ice Cream PArlor Project\Code\IceCreamParlorPOS\IceCreamParlorPOS\obj\Debug\IceCreamParlorPOS.pdb

@@ -14,7 +14,7 @@
         <div class="header">
             <div class="title">
                 <h1>
-                    My ASP.NET Application
+                    Retail Shop POS
                 </h1>
             </div>
             <div class="loginDisplay">
@@ -29,10 +29,15 @@
                 </asp:LoginView>
             </div>
             <div class="clear hideSkiplink">
-                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal" 
+                    onmenuitemclick="NavigationMenu_MenuItemClick">
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
-                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                        <asp:MenuItem NavigateUrl="~/PartyOrder.aspx" Text="Party Order"/>
+                        <asp:MenuItem NavigateUrl="~/StockManagement.aspx" Text="Stock Management"/>
+                                
+                        <asp:MenuItem NavigateUrl="~/RecentOrders.aspx" Text="Recent Orders"/>
                     </Items>
                 </asp:Menu>
             </div>
