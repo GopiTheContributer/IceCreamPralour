@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <p>
-        Ganesh Ice Cream Parlour</p>
+        zzGanesh Ice Cream Parlour</p>
     <br />
 <br />
     <asp:Label ID="lblUserName" runat="server" Text="UserName: " 
